@@ -85,13 +85,13 @@ Mismo contrato visual que el campo de texto (40 px, borde `line`), con icono `sw
 
 El catalogo se organiza por **genero** (categorias de juegos). Cada genero tiene un color estable (seccion 1) y una etiqueta HUD en mayusculas:
 
-| Genero     | Etiqueta | Color   | Juegos esperados                      |
-| ---------- | -------- | ------- | ------------------------------------- |
-| `tablero`  | TABLERO  | primary | 4-rayas, ajedrez, damas, tic-tac-toe  |
-| `palabras` | PALABRAS | accent  | 7-letras, palabra-oculta, sopa-letras |
-| `logica`   | LOGICA   | success | sudoku, puntos-cajas, yatzy           |
-| `memoria`  | MEMORIA  | warning | memoriza-carta                        |
-| `reflejos` | REFLEJOS | error   | serpiente, adivina-numero             |
+| Genero     | Etiqueta | Color   | Juegos esperados                            |
+| ---------- | -------- | ------- | ------------------------------------------- |
+| `tablero`  | TABLERO  | primary | 4-rayas, ajedrez, damas, tic-tac-toe        |
+| `palabras` | PALABRAS | accent  | 7-letras, palabra-oculta, sopa-letras       |
+| `logica`   | LOGICA   | success | sudoku, puntos-cajas, yatzy, adivina-numero |
+| `memoria`  | MEMORIA  | warning | memoriza-carta                              |
+| `reflejos` | REFLEJOS | error   | serpiente                                   |
 
 El chip de genero usa el color del genero sobre un fondo tenue del mismo color; el icono de la marca es `sports_esports`.
 
